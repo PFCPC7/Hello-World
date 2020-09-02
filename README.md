@@ -1,3 +1,3 @@
 # Work in progress
-# Trying to organize my repository 
+# Trying to reorganize my repository 
 Just another Repository
